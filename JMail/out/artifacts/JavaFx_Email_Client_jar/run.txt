@@ -1,0 +1,1 @@
+java --module-path C:\Java [for JavaFx]\JavaLib\javafx-sdk-11.0.2\ --add-modules javafx.fxml,javafx.controls,javafx.graphics,javafx.web -jar JavaFx_Email_Client.jar
